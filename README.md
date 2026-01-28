@@ -94,7 +94,6 @@ I am a passionate **Frontend Developer with 3.5+ years of professional experienc
 
 - **B.Sc. in Computer Science & Engineering**  
   **Begum Rokeya University, Rangpur**  
-  *Result: CGPA 2.84 | Passing Year: 2017 (Exam held in 2021)*
 
 ---
 
