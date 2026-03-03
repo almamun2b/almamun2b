@@ -1,7 +1,13 @@
 # Hi there, I'm Md Abdul Mamun 👋
 ### Software Engineer | Full-Stack Developer | Frontend Specialist
 
-I am a passionate **Frontend Developer with 3.5+ years of professional experience** building modern, performant, and scalable web applications. I specialize in **React.js, Next.js, Nuxt.js, and Astro.js**, with a strong focus on **TypeScript, TailwindCSS**, and clean component architecture. My goal is to craft seamless digital experiences that solve practical problems with efficiency and creativity.
+## Professional Summary
+
+Full-Stack JavaScript Developer with 3.5+ years of professional experience building scalable, secure, and high-performance web applications. Strong expertise in frontend development using React.js, Next.js, Nuxt.js, Astro.js, TypeScript, and TailwindCSS, with a focus on clean architecture and reusable component design.
+
+Experienced in backend development with Node.js, Express.js, MongoDB, PostgreSQL and Prisma building RESTful API-driven systems with emphasis on performance optimization, maintainability, and security best practices.
+
+Passionate about solving real-world problems, collaborating with cross-functional teams, and delivering impactful, growth-driven digital products.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mamun-cse" target="_blank">
