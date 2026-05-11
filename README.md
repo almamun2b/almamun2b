@@ -3,7 +3,7 @@
 
 ## Professional Summary
 
-Full-Stack JavaScript Developer with 3.5+ years of professional experience building scalable, secure, and high-performance web applications. Strong expertise in frontend development using React.js, Next.js, Nuxt.js, Astro.js, TypeScript, and TailwindCSS, with a focus on clean architecture and reusable component design.
+Full-Stack JavaScript Developer with 4+ years of professional experience building scalable, secure, and high-performance web applications. Strong expertise in frontend development using React.js, Next.js, Nuxt.js, Astro.js, TypeScript, and TailwindCSS, with a focus on clean architecture and reusable component design.
 
 Experienced in backend development with Node.js, Express.js, MongoDB, PostgreSQL and Prisma building RESTful API-driven systems with emphasis on performance optimization, maintainability, and security best practices.
 
@@ -32,7 +32,7 @@ Passionate about solving real-world problems, collaborating with cross-functiona
 ### 🧑‍💻 Professional Experience
 
 **Software Engineer** — [**Devxhub**](https://devxhub.com)  
-*March 2022 – Present (3.5+ Years)*
+*March 2022 – February 2026 (4 Years)*
 
 - **Core Technical Role**: Developed and maintained production-grade web applications using **Nuxt.js, Next.js, Astro.js, TypeScript**, and **TailwindCSS**.
 - **Modernization**: Led the migration of key projects from **Nuxt 2 to Nuxt 3**, ensuring smooth transitions and performance gains.
